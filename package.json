@@ -1,0 +1,20 @@
+{
+  "name": "websockets09",
+  "version": "1.0.0",
+  "description": "deploying node js to heroku platform",
+  "main": "server.js",
+  "keywords": [],
+  "author": {
+    "name": "walterjulio123",
+    "email": "walterjulio123@gmail.com"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "6.10.x",
+    "npm": "3.10.x"
+  },
+  "dependencies": {
+    "express": "4.15.x",
+    "socket.io": "1.7.x"
+  }
+}
